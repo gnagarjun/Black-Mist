@@ -17,7 +17,7 @@ public class Cursors : MonoBehaviour {
 			}
 			if(_OnMenu.MenuCanvas.activeSelf == true)
 			{
-				Cursor.visible = true;
+				Cursor.visible = false;
 			}
 		}
 	}
