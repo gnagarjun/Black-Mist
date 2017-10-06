@@ -81,6 +81,29 @@ Suspect 1 found: Wife of victim.
 
 Objective 3:
 
+Go to Lab.
+
+Find objects in the room.
+Objects:
+	--> Funnel
+	--> Test tube
+	--> Burner
+	--> Microscope
+	--> Gloves
+	--> Protective
+	--> Mask
+	
+Objective 4:
+
 Go to Bedroom.
 
-
+Find objects in the room.
+Objects:
+	--> Remote
+	--> Water Bottle
+	--> A gun
+	--> Tie
+	--> Watch
+	--> A book
+	--> A lighter
+	--> A mobile phone
