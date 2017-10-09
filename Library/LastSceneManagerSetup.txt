@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escape(Game Kit)/Models/Pictures/Pictures.unity
+- path: Assets/Escape(Game Kit)/Scenes/LoadScene.unity
   isLoaded: 1
   isActive: 1
