@@ -60,18 +60,31 @@ House--> Go to crime scene (Study room).
 2. Find objects in Hall and take player directly to crime scene
 3. Hall as crime scene
 
-Objective 2:
+Objective 4:
 
-At the Study Room.
-
-Find objects in the room.
+At office room
+Find objects in the office.
 Objects:
-	--> Pen
-	--> Reading Glasses
-	--> Clock
-	--> Diary
-	--> A File
-	--> Portrait/Statue
+	1.mouse
+	2.disc
+	3.laptop
+	4.water cooler
+	5.pencil
+	6.digital camera
+	7.printer
+	
+Objective 3:
+
+At bedroom
+Find objects in the bedroom.
+Objects:
+	1.Camera lens
+	2.Diary
+	3.Lion statue
+	4.Dragon statue
+	5.Speaker
+	6.flower vase
+	7.coffee mug
 
 After collecting all objects open safe and retrieve insurance papers.
 
@@ -79,7 +92,21 @@ After collecting all objects open safe and retrieve insurance papers.
 
 Suspect 1 found: Wife of victim.
 
-Objective 3:
+Objective 4:
+
+At dining room
+Find objects in the dining room
+Objects:
+	
+	1.vase
+	2.tv screen
+	3.wash basin
+	4.tea set
+	5.picture frame
+	6.spoon
+	7.toaster
+
+Objective 5:
 
 Go to Lab.
 
@@ -93,17 +120,3 @@ Objects:
 	--> Protective
 	--> Mask
 	
-Objective 4:
-
-Go to Bedroom.
-
-Find objects in the room.
-Objects:
-	--> Remote
-	--> Water Bottle
-	--> A gun
-	--> Tie
-	--> Watch
-	--> A book
-	--> A lighter
-	--> A mobile phone
