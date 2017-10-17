@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escape(Game Kit)/Scenes/LoadScene.unity
+- path: Assets/Customizable_Furnture/BedroomScene/CleanedUp_Bedroom.unity
   isLoaded: 1
   isActive: 1

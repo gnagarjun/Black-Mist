@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black-Mist", "Assembly-CSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black-Mist", "Assembly-CSharp.csproj", "{E05F8E72-0D7E-4828-019E-A0722ECDFB51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black-Mist", "Assembly-CSharp-Editor.csproj", "{E0D44351-0AF9-0D5E-D776-9A7230181BA8}"
-EndProject
 Project("{4C30967C-B37A-A0A1-308B-78DDA6727D2E}") = "Black-Mist", "Assembly-UnityScript-firstpass.unityproj", "{9A293AA3-E216-8C21-7C7F-141AAC620ED8}"
 EndProject
 Global
@@ -23,10 +21,6 @@ Global
 		{E05F8E72-0D7E-4828-019E-A0722ECDFB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05F8E72-0D7E-4828-019E-A0722ECDFB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05F8E72-0D7E-4828-019E-A0722ECDFB51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E0D44351-0AF9-0D5E-D776-9A7230181BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0D44351-0AF9-0D5E-D776-9A7230181BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0D44351-0AF9-0D5E-D776-9A7230181BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0D44351-0AF9-0D5E-D776-9A7230181BA8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9A293AA3-E216-8C21-7C7F-141AAC620ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9A293AA3-E216-8C21-7C7F-141AAC620ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A293AA3-E216-8C21-7C7F-141AAC620ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
